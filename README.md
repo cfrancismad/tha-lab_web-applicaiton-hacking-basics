@@ -1,2 +1,1 @@
-tha-lab_web-applicaiton-hacking-basics
-======================================
+Hacker Academy Lab Support [http://hackeracademy.com]
