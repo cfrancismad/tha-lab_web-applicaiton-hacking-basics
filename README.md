@@ -13,11 +13,13 @@ This lab requires the following THA virtual machines
 * Vulnerable Client
 
 #### Lab Credentials
-Kali VM: root / toor
-Vuln Client VM: user / password
+
+* Kali VM: `root / toor`
+* Vuln Client VM: `user / password`
 
 #### Setup
 The technical labs seem more directly applicable, but this lab is more important in understanding the nature of web application security. Without this understanding, you may be able to use specific exploits, but you won’t be able to find new attack vectors or create advanced exploits. You may not already have the experience or skills necessary to attack the applications, but by getting in the habit of assessing their attack surface, any design flaws or vulnerabilities in new applications you encounter will become glaringly obvious.
+
 1. Boot your THA Vulnerable Client VM.
 
 2. Boot your THA Kali VM and login.
@@ -29,7 +31,7 @@ The technical labs seem more directly applicable, but this lab is more important
     ```
 
 ##### Note
-* If the Kali VM network connection continually disconnects please reboot the VM.
+* If the Kali VM network connection continually disconnects simply reboot the VM.
 
 #### Start the lab
 * Follow the instructions for lab 1 found on your Kali machine at 
